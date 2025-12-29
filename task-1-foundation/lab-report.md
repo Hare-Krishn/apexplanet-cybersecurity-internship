@@ -24,10 +24,10 @@ To set up an isolated cybersecurity lab environment consisting of:
 ## 2️⃣ Metasploitable2 – Target Machine
 
 ### Login Screen
-![Metasploitable Login](screenshots/Screenshot 2025-12-22 224336.png)
+![Metasploitable Login](screenshots/metasploitable-login.png)
 
 ### Network Configuration (IP Address)
-![Metasploitable ifconfig](screenshots/Screenshot 2025-12-22 224557.png)
+![Metasploitable ifconfig](screenshots/metasploitable-ifconfig.png)
 
 ✔ Target IP identified for attack testing
 
@@ -36,10 +36,10 @@ To set up an isolated cybersecurity lab environment consisting of:
 ## 3️⃣ DVWA – Web Vulnerable Target
 
 ### DVWA Login Page (Accessed from Kali Browser)
-![DVWA Login](screenshots/Screenshot 2025-12-22 224421.png)
+![DVWA Login](screenshots/dvwa-login.png)
 
 ### DVWA Network Configuration
-![DVWA ifconfig](screenshots/Screenshot 2025-12-22 224639.png)
+![DVWA ifconfig](screenshots/dvwa-ifconfig.png)
 
 ✔ DVWA reachable inside isolated network
 
@@ -48,7 +48,7 @@ To set up an isolated cybersecurity lab environment consisting of:
 ## 4️⃣ Network Connectivity Test
 
 ### Kali → Metasploitable Ping Test
-![Ping Test](screenshots/Screenshot 2025-12-22 225019.png)
+![Ping Test](screenshots/ping-test.png)
 
 ✔ Successful communication  
 ✔ Confirms both machines are connected properly
@@ -58,7 +58,7 @@ To set up an isolated cybersecurity lab environment consisting of:
 ## 5️⃣ Wireshark Packet Capture
 
 ### Network Traffic Sniffing
-![Wireshark Capture](screenshots/Screenshot 2025-12-22 225436.png)
+![Wireshark Capture](screenshots/wireshark.png)
 
 ✔ Able to inspect packets including DNS/TCP/ICMP  
 ✔ Confirms monitoring capability from attacker system
