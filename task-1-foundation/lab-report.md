@@ -15,7 +15,7 @@ To set up an isolated cybersecurity lab environment consisting of:
 ## 1️⃣ Kali Linux – Attacker Machine
 
 ### Kali Desktop Screenshot
-![Kali Desktop](screenshots/Screenshot 2025-12-22 215306.png)
+![Kali Desktop](screenshots/kali.png)
 
 ✔ Kali successfully installed & running inside VMware
 
