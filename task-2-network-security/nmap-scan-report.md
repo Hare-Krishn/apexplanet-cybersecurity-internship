@@ -33,7 +33,11 @@ nmap -sS -sV -O -p- -T4 192.168.15.128
 - **Scan Duration:** 246 seconds  
 
 ---
+![nmap-scan-report1](screenshots/nmapscanreport1.png)
 
+![nmap-scan-report2](screenshots/nmapscanreport2.png)
+
+![nmap-scan-report2](screenshots/nmapscanreport2.png)
 ## Open Ports and Services
 
 | Port | Protocol | State | Service |
