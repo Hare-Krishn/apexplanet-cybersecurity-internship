@@ -37,7 +37,7 @@ nmap -sS -sV -O -p- -T4 192.168.15.128
 
 ![nmap-scan-report2](screenshots/nmapscanreport2.png)
 
-![nmap-scan-report2](screenshots/nmapscanreport2.png)
+![nmap-scan-report3](screenshots/nmapscanreport3.png)
 ## Open Ports and Services
 
 | Port | Protocol | State | Service |
