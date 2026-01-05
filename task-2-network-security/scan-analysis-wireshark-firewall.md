@@ -29,11 +29,12 @@ Demonstrate basic firewall rules and block a port scan.
 ## Firewall Rule Used
 ```bash
 iptables -A INPUT -p tcp --dport 22 -j DROP
+```
 
 ## Verification
 ```bash
 iptables -L -n
-
+```
 ## Result
 - SSH port (22) was blocked  
 - Nmap scan showed the port as **filtered**
