@@ -40,7 +40,9 @@ user input fields that interact with the backend database.
 - Potential full database compromise
 
 ### Evidence
+![sqli-attack](screenshots/sqli-attack.png)
 - Screenshot: `screenshots/sqli-attack.png`
+![sqli-data-extraction](screenshots/sqli-data-extraction.png)
 - Screenshot: `screenshots/sqli-data-extraction.png`
 
 ---
@@ -65,6 +67,7 @@ application database without validation.
 **High**
 
 ### Evidence
+![xss-stored](screenshots/xss-stored.png)
 - Screenshot: `screenshots/xss-stored.png`
 
 ---
@@ -86,6 +89,7 @@ response.
 **Medium**
 
 ### Evidence
+![xss-reflected](screenshots/xss-reflected.png)
 - Screenshot: `screenshots/xss-reflected.png`
 
 ---
@@ -111,7 +115,9 @@ logged-in user without their consent.
 - Loss of account integrity
 
 ### Evidence
+![csrf-attack](screenshots/csrf-attack.png)
 - Screenshot: `screenshots/csrf-attack.png`
+![csrf-password-changed](screenshots/csrf-password-changed.png)
 - Screenshot: `screenshots/csrf-password-changed.png`
 
 ---
